@@ -81,7 +81,7 @@ function QuizForm() {
         }
         setLoading(false);
     };
-
+    console.log(currentQuestionData);
     return <div className="flex flex-col gap-y-3 bg-gray-200 p-4 rounded-md w-3/5 mx-auto">
         {
             Object.keys(feedback).length > 0 ? <div>
