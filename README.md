@@ -2,7 +2,7 @@
 
 Welcome to the Dynamic Quiz website powered by AI, where the difficulty adjusts based on your performance!
 
-## 🧠 Features
+## 🚀 Features
 
 - **Adaptive Difficulty**: Experience a quiz that intelligently adjusts difficulty levels based on your answers. Get challenged appropriately as you progress.
   
@@ -21,7 +21,7 @@ To run the Dynamic Quiz locally, follow these steps:
 5. **Start the development server**: `npm run dev`
 6. **Visit the website**: Open your browser and go to `http://localhost:3000`
 
-## 🎯 Usage
+## 📝 Usage
 
 - **Take the Quiz**: Start the quiz and answer questions. Notice how the AI dynamically adjusts the difficulty based on your performance.
 
@@ -29,7 +29,7 @@ To run the Dynamic Quiz locally, follow these steps:
 
 - **Enjoy Learning**: Engage in a dynamic learning experience tailored to challenge and enhance your knowledge.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -39,7 +39,7 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (git push origin feature/YourFeature)
 5. Open a pull request
 
-## Contact
+## 👉 Contact
 
 For any inquiries or feedback, please reach out to:
 - **Name**: Mohd Ramzan Shareef
