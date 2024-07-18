@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📢 Dynamic Quiz with AI
 
-## Getting Started
+Welcome to the Dynamic Quiz website powered by AI, where the difficulty adjusts based on your performance!
 
-First, run the development server:
+## 🧠 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Adaptive Difficulty**: Experience a quiz that intelligently adjusts difficulty levels based on your answers. Get challenged appropriately as you progress.
+  
+- **Interactive UI**: Enjoy a user-friendly interface designed with modern UI components from Radix UI and Lucide icons for visual clarity.
+  
+- **Real-time Feedback**: Receive instant feedback with Radix UI's toast notifications and react-toastify to stay informed about your progress.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To run the Dynamic Quiz locally, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the repository**: `git clone https://github.com/ramzanshareef/dynamic-quiz`
+2. **Navigate to the directory**: `cd dynamic-quiz`
+3. **Install dependencies**: `npm install`
+4. **Set up environment variables** for `Gemini API Key`
+5. **Start the development server**: `npm run dev`
+6. **Visit the website**: Open your browser and go to `http://localhost:3000`
 
-## Learn More
+## 🎯 Usage
 
-To learn more about Next.js, take a look at the following resources:
+- **Take the Quiz**: Start the quiz and answer questions. Notice how the AI dynamically adjusts the difficulty based on your performance.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Track Progress**: Monitor your progress with real-time feedback and adaptive difficulty changes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Enjoy Learning**: Engage in a dynamic learning experience tailored to challenge and enhance your knowledge.
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! Please follow these steps to contribute:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/YourFeature)
+3. Commit your changes (git commit -m 'Add some feature')
+4. Push to the branch (git push origin feature/YourFeature)
+5. Open a pull request
+
+## Contact
+
+For any inquiries or feedback, please reach out to:
+- **Name**: Mohd Ramzan Shareef
+- **Email**: mail.ramzanshareef@gmail.com
+- **GitHub**: [ramzanshareef](https://github.com/ramzanshareef)
